@@ -108,7 +108,6 @@
 <!-- - [Boolean]() -->
 <!--   - [static from]() -->
 # API
-# API
 - [Array](./api/Array.md)
 - [atomic](./api/atomic.md)
 - [nog](./api/nog.md)
