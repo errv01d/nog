@@ -26,7 +26,7 @@ Below you can find a list of settings you can change and their description:
 | remove_task_bar           | Boolean | Remove the taskbar while the program is running                               |
 | ignore_fullscreen_actions | Boolean | Ignore grid-modifying keybindings (swap, focus, move, etc) while fullscreened |
 
-All of these settings can be modified by using any of the functions in the [nog.config]() module.
+All of these settings can be modified by using any of the functions in the [nog.config](./api/nog/config.md) module.
 
 ## Examples
 
