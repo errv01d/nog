@@ -6,7 +6,7 @@ This folder contains all of the machine specific configurations/plugins.
 
 At startup the program looks for a `config.ns` file in the root of this folder and executes it if it can find one.
 
-The config uses a custom language called `Nogscript` which is explained in more detail in the [scripting](./api/nog.md) section.
+The config uses a custom language called `Nogscript` which is explained in more detail in the [scripting](../api/nog.md) section.
 
 Below you can find a list of settings you can change and their description:
 
@@ -26,7 +26,7 @@ Below you can find a list of settings you can change and their description:
 | remove_task_bar           | Boolean | Remove the taskbar while the program is running                               |
 | ignore_fullscreen_actions | Boolean | Ignore grid-modifying keybindings (swap, focus, move, etc) while fullscreened |
 
-All of these settings can be modified by using any of the functions in the [nog.config](./api/nog/config.md) module.
+All of these settings can be modified by using any of the functions in the [nog.config](../api/nog/config.md) module.
 
 ## Examples
 
