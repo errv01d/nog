@@ -1,7 +1,7 @@
 # plugin
 
 ## Functions
-* [install]()
-* [list]()
-* [uninstall]()
-* [update]()
+* [install](./plugin/install.md)
+* [list](./plugin/list.md)
+* [uninstall](./plugin/uninstall.md)
+* [update](./plugin/update.md)
