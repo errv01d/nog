@@ -1,4 +1,4 @@
 # bar
 
 ## Functions
-* [configure]()
+* [configure](./bar/configure.md)
