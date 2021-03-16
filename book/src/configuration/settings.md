@@ -6,7 +6,7 @@ This folder contains all of the machine specific configurations/plugins.
 
 At startup the program looks for a `config.ns` file in the root of this folder and executes it if it can find one.
 
-The config uses a custom language called `Nogscript` which is explained in more detail in the [scripting]() section.
+The config uses a custom language called `Nogscript` which is explained in more detail in the [scripting](./api/nog.md) section.
 
 Below you can find a list of settings you can change and their description:
 
