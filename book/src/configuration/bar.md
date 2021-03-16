@@ -4,7 +4,7 @@
 
 Nog comes with a builtin bar that is a combination of multiple components.
 
-The bar can be configured by using the [nog.bar.configure]() function.
+The bar can be configured by using the [nog.bar.configure](../api/nog/bar/configure.md) function.
 
 The following components are provided by default:
 
